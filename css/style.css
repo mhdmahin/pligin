@@ -1,0 +1,16 @@
+.box{
+	min-height: 400px;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+#text1
+{
+    margin:           10px 0;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
